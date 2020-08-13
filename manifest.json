@@ -16,8 +16,5 @@
     "manifest_version": 2
   }
 
-  git init
-git commit -m "first commit"
-git remote add origin https://github.com/zaper1402/WebsiteBlocker_ChromeExtension.git
-git push -u origin master
-                
+
+  
