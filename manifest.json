@@ -1,0 +1,23 @@
+{
+    "name": "Website Blocker",
+    "version": "1.0",
+    "description": "Build an Extension!",
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+      },
+      "permissions": [
+        "tabs",
+        "storage"
+      ],
+      "browser_action": {
+        "default_popup": "popup.html"
+      },
+    "manifest_version": 2
+  }
+
+  git init
+git commit -m "first commit"
+git remote add origin https://github.com/zaper1402/WebsiteBlocker_ChromeExtension.git
+git push -u origin master
+                
